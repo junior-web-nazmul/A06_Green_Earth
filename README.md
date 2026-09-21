@@ -40,15 +40,15 @@ https://openapi.programming-hero.com/api/plant/1
 
 #### 1) Navbar
 
-- Website **logo/name** on the **left**
-- **Menu items** in the **center**
-- **Plant a Tree button** on the **right**
+- Website **logo/name** on the **left** ✅
+- **Menu items** in the **center**✅
+- **Plant a Tree button** on the **right**✅
 
 #### 2) Banner
 
-- A **background image**
-- A **title** and **subtitle**
-- A **centered button**
+- A **background image**✅
+- A **title** and **subtitle** ✅
+- A **centered button** ✅
 
 #### 3) About Campaign
 
