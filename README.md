@@ -52,8 +52,8 @@ https://openapi.programming-hero.com/api/plant/1
 
 #### 3) About Campaign
 
-- **Section heading**
-- **Image on the left**, **text on the right**
+- **Section heading**✅
+- **Image on the left**, **text on the right**✅
 
 #### 4) Our Impact Section
 
